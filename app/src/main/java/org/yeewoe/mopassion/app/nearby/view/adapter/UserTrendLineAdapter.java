@@ -1,0 +1,66 @@
+package org.yeewoe.mopassion.app.nearby.view.adapter;
+
+import android.content.Context;
+import android.support.annotation.NonNull;
+import android.view.View;
+import android.widget.TextView;
+
+import org.yeewoe.commonutils.common.assist.Checks;
+import org.yeewoe.mopassion.R;
+import org.yeewoe.mopassion.app.common.adapter.MopaAdapter;
+import org.yeewoe.mopassion.app.common.view.widget.ImChatTextView;
+import org.yeewoe.mopassion.app.common.view.widget.MopaTextView;
+import org.yeewoe.mopassion.app.common.view.widget.ThumbPhotoGridLayout;
+import org.yeewoe.mopassion.app.nearby.model.TrendLineVo;
+import org.yeewoe.mopassion.photo.fresco_lib.HeadThumbSimpleDraweeView;
+import org.yeewoe.mopassion.utils.IntentManager;
+
+import butterknife.Bind;
+
+/**
+ * Created by acc on 2016/7/27.
+ */
+public class UserTrendLineAdapter extends MopaAdapter<TrendLineVo> {
+    public UserTrendLineAdapter(Context context) {
+        super(context);
+    }
+
+    @Override public int getItemLayoutId() {
+        return R.layout.item_user_trend;
+    }
+
+    @Override public MopaViewHolder getViewHolder(View view) {
+        return new UserTrendAdapterViewHolder(view);
+    }
+
+    @Override protected void bindViewHolder(MopaViewHolder mopaViewHolder, @NonNull final TrendLineVo data) {
+        UserTrendAdapterViewHolder viewHolder = (UserTrendAdapterViewHolder) mopaViewHolder;
+        viewHolder.mImgviHead.setImageHead(data.getUser());
+        if (!Checks.check(data.getMsg()) && Checks.check(data.getImages())) {
+            viewHolder.mTxtTrendContent.setVisibility(View.GONE);
+            viewHolder.mTxtTrendContent.setText("");
+        } else {
+            viewHolder.mTxtTrendContent.setVisibility(View.VISIBLE);
+            viewHolder.mTxtTrendContent.setText(data.getMsg());
+        }
+        viewHolder.mThumbGLPhoto.setPhotos(data.getImages());
+
+        viewHolder.mViewItem.setOnClickListener(new View.OnClickListener() {
+            @Override public void onClick(View v) {
+                IntentManager.Trend.intentToTrendDetail(context, data);
+            }
+        });
+    }
+
+    class UserTrendAdapterViewHolder extends MopaViewHolder {
+
+        @Bind(R.id.txt_trend_content) MopaTextView mTxtTrendContent;
+        @Bind(R.id.iv_trend_photo) HeadThumbSimpleDraweeView mImgviHead;
+        @Bind(R.id.thumbGL_photo) ThumbPhotoGridLayout mThumbGLPhoto;
+
+        public UserTrendAdapterViewHolder(View convertView) {
+            super(convertView);
+        }
+    }
+
+}

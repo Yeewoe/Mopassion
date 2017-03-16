@@ -1,0 +1,334 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              style="@style/RootContainer.LinearVertical"
+              android:background="@color/me_tab_bg"
+              tools:context="org.yeewoe.mopassion.app.maintab.view.MeFragment">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/me_tab_title_height">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="@dimen/me_tab_title_padding_bottom"
+            android:background="@color/purple"/>
+
+        <org.yeewoe.mopassion.photo.fresco_lib.HeadThumbSimpleDraweeView
+            android:id="@+id/imgvi_head"
+            style="@style/HeadView.M"
+            android:layout_width="@dimen/me_tab_head_length"
+            android:layout_height="@dimen/me_tab_head_length"
+            android:layout_gravity="left|bottom"
+            android:layout_marginLeft="@dimen/me_tab_padding_left_right"
+            android:src="@drawable/default_head"/>
+
+        <ImageView
+            android:id="@+id/imgvi_edit"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="right|top"
+            android:padding="5dp"
+            android:layout_marginRight="@dimen/common_padding_left_right_17dp"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/me_profile_edit"/>
+
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/me_tab_padding_left_right"
+        android:gravity="center_vertical"
+        android:paddingRight="@dimen/me_tab_padding_left_right">
+
+        <org.yeewoe.mopassion.app.common.view.widget.MopaTextView
+            android:id="@+id/txt_nick"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="txt_nick"
+            android:textColor="@color/txt_3e"
+            android:textSize="@dimen/txt_size_18"
+            android:textStyle="bold"/>
+        
+        <ImageView
+            android:id="@+id/imgvi_setting"
+            android:padding="2dp"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:scaleType="center"
+            android:src="@drawable/ic_setting"/>
+    </LinearLayout>
+
+
+    <org.yeewoe.mopassion.app.common.view.widget.MopaTextView
+        android:id="@+id/txt_signature"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:ellipsize="end"
+        android:lines="2"
+        android:paddingLeft="@dimen/me_tab_padding_left_right"
+        android:paddingRight="@dimen/me_tab_padding_left_right"
+        android:text="txt_signature txt_signature txt_signature txt_signature txt_signature"
+        android:textColor="@color/txt_3e"
+        android:textSize="@dimen/txt_size_14"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:layout_marginTop="11dp"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/me_tab_padding_left_right"
+        android:paddingRight="@dimen/me_tab_padding_left_right">
+
+        <TextView
+            android:id="@+id/txt_follow_num"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="0"
+            android:textColor="@color/txt_3e"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="3dp"
+            android:text="@string/me_tab_follow"
+            android:textColor="@color/lavender"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/txt_fans_num"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="38dp"
+            android:text="0"
+            android:textColor="@color/txt_3e"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="3dp"
+            android:text="@string/me_tab_fans"
+            android:textColor="@color/lavender"
+            android:textStyle="bold"
+            />
+    </LinearLayout>
+
+    <RadioGroup
+        android:id="@+id/radio_group_tab"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/me_tab_padding_left_right"
+        android:paddingRight="@dimen/me_tab_padding_left_right"
+        >
+
+        <RadioButton
+            android:id="@+id/radio_btn_post"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/selector_me_space_tab_left"
+            android:button="@null"
+            android:gravity="center"
+            android:text="POST"
+            android:textColor="@color/purple"
+            android:textSize="@dimen/txt_size_14"
+            android:textStyle="bold"/>
+
+        <RadioButton
+            android:id="@+id/radio_btn_space"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/selector_me_space_tab_center"
+            android:button="@null"
+            android:gravity="center"
+            android:text="SPACE"
+            android:textColor="@color/purple"
+            android:textSize="@dimen/txt_size_14"
+            android:textStyle="bold"/>
+
+        <RadioButton
+            android:id="@+id/radio_btn_followed"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/selector_me_space_tab_right"
+            android:button="@null"
+            android:gravity="center"
+            android:text="FOLLOWED"
+            android:textColor="@color/purple"
+            android:textSize="@dimen/txt_size_14"
+            android:textStyle="bold"/>
+    </RadioGroup>
+
+    <View
+        style="@style/ItemSpan"
+        android:layout_marginTop="7dp"/>
+
+    <FrameLayout
+        android:id="@+id/fl_tab_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white">
+
+    </FrameLayout>
+
+    <!--<org.yeewoe.mopassion.app.common.view.widget.MopaTitleLayout-->
+    <!--android:id="@+id/title_main"-->
+    <!--style="@style/TitleContainer.X"-->
+    <!--android:padding="@dimen/common_padding_left_right_11dp">-->
+
+    <!--<org.yeewoe.mopassion.photo.fresco_lib.HeadThumbSimpleDraweeView-->
+    <!--android:id="@+id/imgvi_head"-->
+    <!--style="@style/HeadView.M"-->
+    <!--android:layout_alignParentLeft="true"/>-->
+
+    <!--<LinearLayout-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:layout_marginLeft="@dimen/common_padding_left_right_11dp"-->
+    <!--android:layout_toRightOf="@+id/imgvi_head"-->
+    <!--android:gravity="center_vertical"-->
+    <!--android:orientation="vertical">-->
+
+    <!--<org.yeewoe.mopassion.app.common.view.widget.MopaTextView-->
+    <!--android:id="@+id/txt_nick"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="昵称"-->
+    <!--android:textColor="@color/white"-->
+    <!--android:textSize="@dimen/txt_size_16"/>-->
+
+    <!--<org.yeewoe.mopassion.app.common.view.widget.MopaTextView-->
+    <!--android:id="@+id/txt_account"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_marginTop="@dimen/common_padding_left_right_3dp"-->
+    <!--android:text="Mopa号"-->
+    <!--android:textColor="@color/white"-->
+    <!--android:textSize="@dimen/txt_size_12"/>-->
+    <!--</LinearLayout>-->
+
+    <!--<LinearLayout-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_alignParentRight="true"-->
+    <!--android:layout_centerVertical="true"-->
+    <!--android:background="@drawable/bg_topbar_shadow"-->
+    <!--android:gravity="center_vertical"-->
+    <!--android:orientation="horizontal">-->
+
+    <!--<TextView-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="资料"-->
+    <!--android:textColor="@color/txt_aaa"/>-->
+
+    <!--<ImageView-->
+    <!--style="@style/FormItemArrow"-->
+    <!--android:layout_width="12dp"-->
+    <!--android:layout_height="12dp"/>-->
+    <!--</LinearLayout>-->
+
+    <!--</org.yeewoe.mopassion.app.common.view.widget.MopaTitleLayout>-->
+
+    <!--<View style="@style/Icon.HLine"/>-->
+
+    <!--<RelativeLayout-->
+    <!--android:id="@+id/rl_trend"-->
+    <!--style="@style/FormItemContainer">-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/label_trend"-->
+    <!--style="@style/FormItemTextLeft"-->
+    <!--android:text="个人动态"/>-->
+
+    <!--<LinearLayout-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_toRightOf="@+id/label_trend"-->
+    <!--android:orientation="horizontal">-->
+
+    <!--<org.yeewoe.mopassion.photo.fresco_lib.ThumbSimpleDraweeView-->
+    <!--style="@style/ThumbView.M"/>-->
+
+    <!--<org.yeewoe.mopassion.photo.fresco_lib.ThumbSimpleDraweeView-->
+    <!--style="@style/ThumbView.M"-->
+    <!--android:layout_marginLeft="@dimen/common_padding_left_right_6dp"/>-->
+
+    <!--<org.yeewoe.mopassion.photo.fresco_lib.ThumbSimpleDraweeView-->
+    <!--style="@style/ThumbView.M"-->
+    <!--android:layout_marginLeft="@dimen/common_padding_left_right_6dp"/>-->
+
+    <!--<org.yeewoe.mopassion.photo.fresco_lib.ThumbSimpleDraweeView-->
+    <!--style="@style/ThumbView.M"-->
+    <!--android:layout_marginLeft="@dimen/common_padding_left_right_6dp"/>-->
+
+    <!--</LinearLayout>-->
+
+    <!--<ImageView-->
+    <!--style="@style/FormItemArrow"/>-->
+
+
+    <!--</RelativeLayout>-->
+
+    <!--<View style="@style/Icon.HLine"/>-->
+
+    <!--<View style="@style/Section"/>-->
+
+    <!--<View style="@style/Icon.HLine"/>-->
+
+    <!--<RelativeLayout-->
+    <!--android:id="@+id/rl_setting"-->
+    <!--style="@style/FormItemContainer">-->
+
+    <!--<ImageView-->
+    <!--android:id="@+id/imgvi_setting"-->
+    <!--style="@style/FormItemIconLeft"-->
+    <!--android:src="@drawable/ic_im_notepad"/>-->
+
+    <!--<TextView-->
+    <!--style="@style/FormItemIconText"-->
+    <!--android:layout_toRightOf="@+id/imgvi_setting"-->
+    <!--android:text="@string/setting"/>-->
+
+    <!--<ImageView-->
+    <!--style="@style/FormItemArrow"/>-->
+    <!--</RelativeLayout>-->
+
+    <!--<View style="@style/Icon.HLine"/>-->
+
+    <!--<RelativeLayout-->
+    <!--android:id="@+id/rl_help"-->
+    <!--style="@style/FormItemContainer">-->
+
+
+    <!--<ImageView-->
+    <!--android:id="@+id/imgvi_help"-->
+    <!--style="@style/FormItemIconLeft"-->
+    <!--android:src="@drawable/ic_im_notepad"/>-->
+
+    <!--<TextView-->
+    <!--style="@style/FormItemIconText"-->
+    <!--android:layout_toRightOf="@+id/imgvi_help"-->
+    <!--android:text="@string/help"/>-->
+
+    <!--<ImageView-->
+    <!--style="@style/FormItemArrow"/>-->
+    <!--</RelativeLayout>-->
+
+    <!--<View style="@style/Icon.HLine"/>-->
+
+</LinearLayout>

@@ -1,0 +1,189 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!-- 公共 -->
+    <dimen name="common_title_height">55dp</dimen>
+    <dimen name="common_title_height_x">71dp</dimen>
+    <dimen name="common_padding_left_right">19dp</dimen>
+    <dimen name="common_padding_top_bottom">12dp</dimen>
+    <dimen name="common_padding_left_right_3dp">3dp</dimen>
+    <dimen name="common_padding_left_right_6dp">6dp</dimen>
+    <dimen name="common_padding_left_right_10dp">10dp</dimen>
+    <dimen name="common_padding_left_right_11dp">11dp</dimen>
+    <dimen name="common_padding_left_right_13dp">13dp</dimen>
+    <dimen name="common_padding_left_right_15dp">15dp</dimen>
+    <dimen name="common_padding_left_right_17dp">17dp</dimen>
+    <dimen name="common_tab_height">48dp</dimen>
+    <dimen name="common_tab_indicator_height">3dp</dimen>
+    <dimen name="common_radius">5dp</dimen>
+    <dimen name="common_border_s">0.5dp</dimen>
+    <dimen name="common_border_m">1dp</dimen>
+    <dimen name="common_border_l">1.5dp</dimen>
+    <dimen name="common_line_width">0.5dp</dimen>
+    <!-- end 公共 -->
+
+    <!-- icon -->
+    <dimen name="thumb_m_width">45dp</dimen>
+    <dimen name="thumb_m_height">45dp</dimen>
+    <dimen name="thumb_l_width">60dp</dimen>
+    <dimen name="thumb_l_height">60dp</dimen>
+    <dimen name="head_photo_length_trend">54dp</dimen>
+    <dimen name="thumb_photo_width">80dp</dimen>
+    <dimen name="thumb_photo_height">80dp</dimen>
+    <dimen name="thumb_zoom_photo_width">200dp</dimen>
+    <dimen name="thumb_zoom_photo_height">200dp</dimen>
+    <dimen name="thumb_zoom_photo_min_height">145dp</dimen>
+    <!-- end icon -->
+
+    <!-- title -->
+    <dimen name="title_icon_length">29dp</dimen>
+    <dimen name="title_padding_left_right">17dp</dimen>
+    <!-- end title-->
+
+    <!-- listview -->
+    <dimen name="list_item_section_height">1dip</dimen>
+    <dimen name="common_section_height">10dip</dimen>
+    <!-- end listview -->
+
+    <!-- form -->
+    <dimen name="form_item_min_height">42dp</dimen>
+    <dimen name="form_item_padding">11dp</dimen>
+    <dimen name="form_item_padding_left_right">19dp</dimen>
+    <dimen name="form_item_ic_length">16dp</dimen>
+    <dimen name="form_item_ic_length_2">24dp</dimen>
+    <!-- end form -->
+
+    <!-- button -->
+    <dimen name="btn_auth_width">250dp</dimen>
+    <dimen name="btn_auth_height">25dp</dimen>
+    <!-- end button -->
+
+    <!-- head grid layout -->
+    <dimen name="head_grid_span">13dp</dimen>
+    <!-- end head grid layout -->
+
+
+    <!-- 主页面 -->
+    <dimen name="main_tab_height">56dp</dimen>
+    <dimen name="main_tab_content_margin_top">7dp</dimen>
+    <dimen name="main_tab_content_textview_margin_top">1dp</dimen>
+    <dimen name="main_tab_mark_margin_left">48dp</dimen>
+    <dimen name="main_tab_mark_padding_left">7dp</dimen>
+    <dimen name="main_tab_mark_padding_right">7dp</dimen>
+    <dimen name="main_tab_mark_height">14dp</dimen>
+    <dimen name="main_tab_mark_margin_top">3dp</dimen>
+    <!-- end 主页面 -->
+
+    <!-- IM -->
+    <dimen name="im_chat_content_item_inner_margin">6dp</dimen>
+    <dimen name="im_group_chat_from_name_textsize">11dp</dimen>
+    <!-- 别人发的信息名字大小 -->
+    <dimen name="im_group_chat_from_name_height">17dp</dimen>
+    <!-- 别人发的信息名字大小 -->
+    <dimen name="im_group_chat_from_name_margin_top">6dp</dimen>
+    <!-- 别人发的信息名字上边距 -->
+    <dimen name="im_group_chat_from_name_margin_bottom">3dp</dimen>
+    <!-- 别人发的信息名字下边距 -->
+    <dimen name="im_share_icon_margin_text">3dp</dimen>
+    <!-- 分享块 下面图标与文字之间间距 -->
+    <dimen name="im_pop_margin_top">17dp</dimen>
+    <!-- 右气泡距离上边距 -->
+    <dimen name="im_other_margin_top">11dp</dimen>
+    <!-- 有名字的气泡距离上边距 -->
+    <dimen name="im_other_name_height">22dp</dimen>
+    <!-- 名字控件大小 -->
+    <dimen name="im_share_margin_left_right">68dp</dimen>
+    <dimen name="im_share_margin_left">34dp</dimen>
+    <dimen name="im_icon_width_height">39dp</dimen>
+    <!-- 头像大小 -->
+    <dimen name="im_avatar_margin_left_or_right">15dp</dimen>
+    <!-- 距离左右边距 -->
+    <dimen name="im_avatar_margin_pop">6dp</dimen>
+    <!-- 头像与泡泡之间的距离 -->
+    <dimen name="im_pop_min_height">42dp</dimen>
+    <!-- 泡泡最小高度 -->
+    <dimen name="im_pop_text_margin_top">9dp</dimen>
+    <!-- 泡泡文字距离上边距 -->
+    <dimen name="im_pop_text_margin_bottom">9dp</dimen>
+    <!-- 泡泡文字距离下边距 -->
+    <dimen name="im_pop_text_margin_left">12dp</dimen>
+    <!-- 泡泡文字距离左边距 -->
+    <dimen name="im_pop_text_margin_right">12dp</dimen>
+    <!-- 泡泡文字距离右边距 -->
+    <dimen name="im_pop_image_margin_top_left_bottom">6dp</dimen>
+    <!-- 图片泡泡上左下边距 -->
+    <dimen name="im_pop_image_margin_right">10dp</dimen>
+    <!-- 图片泡泡右边距 -->
+    <dimen name="im_card_text_name_size">16dp</dimen>
+    <!-- 名片名字字体大小 -->
+    <dimen name="im_user_chat_margin_top_bottom">15dp</dimen>
+    <!-- 单聊所有气泡距离上下边距 -->
+    <dimen name="im_self_msg_right_space_width">53dp</dimen>
+    <!-- 选择控件左边距 -->
+    <dimen name="im_right_space_width">34dp</dimen>
+    <!-- 所有泡泡右边宽度 -->
+    <dimen name="im_card_check_margin_left">6dp</dimen>
+    <!-- 选择控件左边距 -->
+    <dimen name="im_card_check_margin_right">8dp</dimen>
+    <!-- 选择控件右边距 -->
+    <dimen name="im_other_name_textsize">11dp</dimen>
+    <dimen name="im_chat_content_time_text_size">12dp</dimen>
+
+    <dimen name="im_time_block_margin_top">22dp</dimen>
+    <!-- 时间块距离上边距 -->
+    <dimen name="im_time_block_margin_bottom">8dp</dimen>
+    <!-- 时间块距离下边距 -->
+    <dimen name="im_time_block_textview_height">17dp</dimen>
+    <!-- 时间快高度 -->
+    <dimen name="im_time_block_textview_textsize">12dp</dimen>
+    <!-- 时间快字体大小 -->
+    <dimen name="max_panel_height">420dp</dimen>
+    <!-- 键盘最大高度 -->
+    <dimen name="im_chat_attach_height">210dp</dimen>
+    <dimen name="im_chat_content_bubble_text_size">16dp</dimen>
+
+    <dimen name="public_listview_message_min_height">77dp</dimen>
+    <dimen name="public_listview_message_content_padding">15dp</dimen>
+    <!-- 文字和两边的距离 -->
+    <dimen name="public_listview_message_txt_chat_last_time">15dp</dimen>
+    <!--消息界面右边-时间 -->
+    <dimen name="public_listview_message_txt_chat_name">16dp</dimen>
+    <!--消息界面主标题 -->
+    <dimen name="public_listview_message_txt_chat_content">14dp</dimen>
+    <!--消息界面内容 -->
+    <dimen name="anim_ten_dp">10dp</dimen>
+    <dimen name="im_chat_express_tab_height">44dp</dimen>
+    <dimen name="rounded_hint_divider_height">5dp</dimen>
+    <dimen name="im_chat_attach_indicator_height">23dp</dimen>
+    <!-- end IM -->
+
+    <!-- 录音 -->
+    <dimen name="notice_titles_height">63dp</dimen>
+    <dimen name="voice_popwindow_font_size">18dp</dimen>
+    <dimen name="im_chat_circle_stroke_width">3dp</dimen>
+    <dimen name="im_chat_circle_padding">8dp</dimen>
+    <!-- end 录音 -->
+
+    <!-- 表情 -->
+    <dimen name="express_width_small">22dp</dimen>
+    <dimen name="express_width_outside">15dp</dimen>
+    <dimen name="express_width_normal">28dp</dimen>
+    <!-- end 表情 -->
+
+
+    <!-- me tab -->
+    <dimen name="me_tab_padding_left_right">17dp</dimen>
+    <dimen name="me_tab_title_height">116dp</dimen>
+    <dimen name="me_tab_title_padding_bottom">20dp</dimen>
+    <dimen name="me_tab_head_length">72dp</dimen>
+    <!-- end me tag -->
+
+    <!-- nearby tab -->
+    <dimen name="nearby_filter_popup_width">190dp</dimen>
+    <dimen name="nearby_filter_popup_height">162dp</dimen>
+    <!-- end nearby tab -->
+
+</resources>

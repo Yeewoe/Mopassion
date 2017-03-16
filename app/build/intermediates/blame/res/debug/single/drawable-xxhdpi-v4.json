@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\messenger_bubble_large_blue.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.13.1\\res\\drawable-xxhdpi-v4\\messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\dgts__logo.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.11.0\\res\\drawable-xxhdpi-v4\\dgts__logo.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\com_facebook_button_like_icon_selected.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.13.1\\res\\drawable-xxhdpi-v4\\com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tw__composer_logo_blue.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.5\\res\\drawable-xxhdpi-v4\\tw__composer_logo_blue.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tw__ic_tweet_photo_error_dark.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable-xxhdpi-v4\\tw__ic_tweet_photo_error_dark.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tw__action_heart_off_default.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable-xxhdpi-v4\\tw__action_heart_off_default.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\messenger_button_send_round_shadow.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.13.1\\res\\drawable-xxhdpi-v4\\messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tw__ic_seekbar_progress_bg.9.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable-xxhdpi-v4\\tw__ic_seekbar_progress_bg.9.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\pic_help_banner.jpg",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable-xxhdpi\\pic_help_banner.jpg"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tw__ic_logo_blue.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable-xxhdpi-v4\\tw__ic_logo_blue.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\com_facebook_button_send_icon_white.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.13.1\\res\\drawable-xxhdpi-v4\\com_facebook_button_send_icon_white.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tw__ic_video_pause.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable-xxhdpi-v4\\tw__ic_video_pause.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tw__ic_tweet_photo_error_light.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable-xxhdpi-v4\\tw__ic_tweet_photo_error_light.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tw__ic_logo_default.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.7.0\\res\\drawable-xxhdpi-v4\\tw__ic_logo_default.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\messenger_bubble_small_white.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.13.1\\res\\drawable-xxhdpi-v4\\messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\messenger_bubble_small_blue.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.13.1\\res\\drawable-xxhdpi-v4\\messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tw__action_heart_on_default.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable-xxhdpi-v4\\tw__action_heart_on_default.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\com_facebook_button_icon_blue.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.13.1\\res\\drawable-xxhdpi-v4\\com_facebook_button_icon_blue.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tw__ic_video_replay.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable-xxhdpi-v4\\tw__ic_video_replay.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tw__ic_play_default.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable-xxhdpi-v4\\tw__ic_play_default.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tw__ic_retweet_light.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable-xxhdpi-v4\\tw__ic_retweet_light.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tw__composer_logo_white.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.5\\res\\drawable-xxhdpi-v4\\tw__composer_logo_white.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tw__ic_video_play.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable-xxhdpi-v4\\tw__ic_video_play.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\dgts__ic_success.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.11.0\\res\\drawable-xxhdpi-v4\\dgts__ic_success.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tw__ic_tweet_verified.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable-xxhdpi-v4\\tw__ic_tweet_verified.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tw__ic_retweet_dark.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable-xxhdpi-v4\\tw__ic_retweet_dark.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\dgts__logo_name.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.11.0\\res\\drawable-xxhdpi-v4\\dgts__logo_name.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tw__ic_seekbar_secondary_bg.9.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable-xxhdpi-v4\\tw__ic_seekbar_secondary_bg.9.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\Mopassion2.libraries\\viewpagerindicator\\unspecified\\res\\drawable-xxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tw__ic_video_pause_pressed.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable-xxhdpi-v4\\tw__ic_video_pause_pressed.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tw__ic_seekbar_bg.9.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable-xxhdpi-v4\\tw__ic_seekbar_bg.9.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tw__ic_video_play_pressed.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable-xxhdpi-v4\\tw__ic_video_play_pressed.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tw__ic_play_pressed.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable-xxhdpi-v4\\tw__ic_play_pressed.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tw__ic_logo_white.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable-xxhdpi-v4\\tw__ic_logo_white.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cube_mints_icon_top_back.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\in.srain.cube\\cube-sdk\\1.0.44\\res\\drawable-xxhdpi-v4\\cube_mints_icon_top_back.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\com_facebook_favicon_white.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.13.1\\res\\drawable-xxhdpi-v4\\com_facebook_favicon_white.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tw__share_email_header.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.7.0\\res\\drawable-xxhdpi-v4\\tw__share_email_header.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\messenger_bubble_large_white.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.13.1\\res\\drawable-xxhdpi-v4\\messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\dgts__login_header.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.11.0\\res\\drawable-xxhdpi-v4\\dgts__login_header.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tw__ic_vine_badge.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable-xxhdpi-v4\\tw__ic_vine_badge.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\dgts__addressbook_header.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.11.0\\res\\drawable-xxhdpi-v4\\dgts__addressbook_header.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\dgts__spinner_light.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.11.0\\res\\drawable-xxhdpi-v4\\dgts__spinner_light.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tw__ic_inline_share.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable-xxhdpi-v4\\tw__ic_inline_share.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tw__ic_gif_badge.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable-xxhdpi-v4\\tw__ic_gif_badge.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\com_facebook_button_icon_white.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.13.1\\res\\drawable-xxhdpi-v4\\com_facebook_button_icon_white.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\dgts__spinner_dark.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.11.0\\res\\drawable-xxhdpi-v4\\dgts__spinner_dark.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tw__ic_video_replay_pressed.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable-xxhdpi-v4\\tw__ic_video_replay_pressed.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tw__composer_close.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.5\\res\\drawable-xxhdpi-v4\\tw__composer_close.png"
+    }
+]

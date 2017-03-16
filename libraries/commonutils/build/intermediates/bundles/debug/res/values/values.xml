@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MopaUtils</string>
+    <string name="tip_no_intent_handler">没有可以打开的应用程序</string>
+</resources>

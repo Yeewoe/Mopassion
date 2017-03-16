@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_site"
+    style="@style/style_patterns_setting_item"
+    android:orientation="horizontal">
+
+    <LinearLayout style="@style/style_patterns_item_selection">
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <LinearLayout
+                style="@style/style_patterns_setting_item_right_info"
+                android:gravity="center_vertical">
+
+                <org.yeewoe.mopassion.app.common.view.widget.MopaTextView
+                    style="@style/FormItemTextTitle"
+                    android:singleLine="true"
+                    android:text="选择地点"
+                    android:textColor="@color/txt_6b" />
+
+                <LinearLayout
+                    android:layout_width="0.0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10.0dip"
+                    android:layout_weight="1.0"
+                    android:gravity="right">
+
+                    <ImageView
+                        android:id="@+id/imgvi_site_tag"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginRight="3.0dip"
+                        android:src="@drawable/ic_publish_user_trend_site_location"
+                        android:visibility="gone" />
+
+                    <org.yeewoe.mopassion.app.common.view.widget.MopaTextView
+                        android:id="@+id/txt_site_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginRight="10.0dip"
+                        android:gravity="left|center"
+                        android:singleLine="true"
+                        android:textColor="@color/blue"
+                        android:textSize="@dimen/txt_size_13"
+                        android:visibility="gone" />
+                </LinearLayout>
+
+                <ImageView
+                    android:id="@+id/iv_arrow"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/ic_common_arrow_right" />
+            </LinearLayout>
+        </RelativeLayout>
+
+        <View style="@style/Icon.HLine" />
+    </LinearLayout>
+</LinearLayout>

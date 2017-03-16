@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="@dimen/nearby_filter_popup_width"
+             android:layout_height="@dimen/nearby_filter_popup_height">
+
+    <FrameLayout
+        android:layout_width="@dimen/nearby_filter_popup_width"
+        android:layout_height="@dimen/nearby_filter_popup_height">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="11dp"
+            android:layout_gravity="top"
+            android:scaleType="center"
+            android:src="@drawable/ic_nearby_popup_arrow"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/bg_nearby_filter_popup"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/txt_men_seek_men"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:background="@drawable/bg_nearby_filter_item"
+                android:gravity="center_vertical|left"
+                android:paddingLeft="5dp"
+                android:text="@string/men_seek_men"
+                android:textColor="@color/white"
+                android:textSize="@dimen/txt_size_15"/>
+
+            <TextView
+                android:id="@+id/txt_men_seek_women"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical|left"
+                android:paddingLeft="5dp"
+                android:text="@string/men_seek_women"
+                android:textColor="@color/white"
+                android:textSize="@dimen/txt_size_15"/>
+
+            <TextView
+                android:id="@+id/txt_women_seek_men"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical|left"
+                android:paddingLeft="5dp"
+                android:text="@string/women_seek_men"
+                android:textColor="@color/white"
+                android:textSize="@dimen/txt_size_15"/>
+
+            <TextView
+                android:id="@+id/txt_women_seek_women"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical|left"
+                android:paddingLeft="5dp"
+                android:text="@string/women_seek_women"
+                android:textColor="@color/white"
+                android:textSize="@dimen/txt_size_15"/>
+        </LinearLayout>
+    </FrameLayout>
+</FrameLayout>

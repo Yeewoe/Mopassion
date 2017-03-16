@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#f8f8f8"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <LinearLayout
+            android:id="@+id/radio_container"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/im_chat_express_tab_height"
+            android:background="@drawable/express_bg_normal"
+            android:orientation="horizontal"
+            android:layout_alignParentBottom="true"
+            >
+
+            <FrameLayout
+                android:id="@+id/frame_expression"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginTop="1px"
+                android:layout_weight="1"
+                android:background="@drawable/express_check_bg_selector">
+
+                <android.support.v7.widget.AppCompatRadioButton
+                    android:id="@+id/radio_expression"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:background="@null"
+                    android:button="@null"
+                    android:drawableLeft="@drawable/express_check_icon_selector"
+                    android:drawablePadding="5dp"
+                    android:gravity="center"
+                    android:text="Emoji"
+                    android:textColor="@color/express_check_text_color" />
+
+                <ImageView
+                    android:id="@+id/img_right_line_2"
+                    android:layout_width="1px"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="right"
+                    android:background="#aaaaaa" />
+
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/frame_momo_expression"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginTop="1px"
+                android:layout_weight="1"
+                android:background="@drawable/express_check_bg_selector">
+
+                <android.support.v7.widget.AppCompatRadioButton
+                    android:id="@+id/radio_momo_expression"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:background="@null"
+                    android:button="@null"
+                    android:drawableLeft="@drawable/express_check_icon_selector"
+                    android:drawablePadding="5dp"
+                    android:gravity="center"
+                    android:text="Zem"
+                    android:textColor="@color/express_check_text_color" />
+
+                <ImageView
+                    android:id="@+id/img_right_line_3"
+                    android:layout_width="1px"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="right"
+                    android:background="#aaaaaa" />
+
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/frame_nod_expression"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginTop="1px"
+                android:layout_weight="1"
+                android:background="@drawable/express_check_bg_selector">
+
+                <android.support.v7.widget.AppCompatRadioButton
+                    android:id="@+id/radio_nod_expression"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:background="@null"
+                    android:button="@null"
+                    android:drawableLeft="@drawable/express_check_icon_selector"
+                    android:drawablePadding="5dp"
+                    android:gravity="center"
+                    android:text="点头摇头"
+                    android:textColor="@color/express_check_text_color" />
+
+                <ImageView
+                    android:id="@+id/img_right_line_4"
+                    android:layout_width="1px"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="right"
+                    android:background="#aaaaaa" />
+
+            </FrameLayout>
+
+            <android.support.v7.widget.AppCompatRadioButton
+                android:id="@+id/radio_voice"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="声音"
+                android:visibility="invisible" />
+
+            <Button
+                android:id="@+id/btn_send"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@drawable/express_btn_send_selector"
+                android:text="@string/send"
+                android:textColor="@color/white" />
+        </LinearLayout>
+
+        <android.support.v4.app.FragmentTabHost
+            android:id="@android:id/tabhost"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:layout_above="@+id/radio_container"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:gravity="bottom"
+                >
+
+                <FrameLayout
+                    android:id="@android:id/tabcontent"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_weight="0"
+
+                    />
+
+                <FrameLayout
+                    android:id="@+id/realtabcontent"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    />
+
+                <TabWidget
+                    android:id="@android:id/tabs"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="0"
+                    android:orientation="horizontal"
+                    />
+            </LinearLayout>
+        </android.support.v4.app.FragmentTabHost>
+
+
+
+    </RelativeLayout>
+
+</FrameLayout>

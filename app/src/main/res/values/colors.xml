@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主题 -->
+    <color name="theme_color_dark">#998fd2</color>
+    <color name="theme_color_accent">#bbacc4</color>
+    <color name="theme_color_black">#101010</color>
+    <!-- end 主题 -->
+
+    <!-- 标准颜色 -->
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffff</color>
+    <color name="blue">#478cd1</color>
+    <color name="black">#000000</color>
+    <color name="black_light">#111111</color>
+    <color name="grey_dark">#333333</color>
+    <color name="grey">#666666</color>
+    <color name="gray_light">#e8ebec</color>
+    <color name="purple">#998fd2</color>
+    <color name="purple_dark">#64549f</color>
+    <color name="purple_dark_t">#af64549f</color>
+    <color name="lavender">#bbacc4</color>
+    <!-- end 标准颜色 -->
+
+    <!-- text -->
+    <color name="txt_aaa">#aaa</color>
+    <color name="txt_333">#333</color>
+    <color name="txt_14">#141414</color>
+    <color name="txt_3b">#3b3b3b</color>
+    <color name="txt_3e">#3e3e3e</color>
+    <color name="txt_6b">#6b6b6b</color>
+    <color name="txt_b2">#b2b2b2</color>
+    <color name="txt_96">#969696</color>
+    <color name="txt_bebbb4">#ffbebbb4</color>
+
+    <!-- 公共 -->
+    <color name="bg_title">#ffffff</color>
+    <color name="bg_content">#ffffff</color>
+    <color name="bg_container_common">#eee</color>
+    <color name="bg_im">#eeece6</color>
+    <color name="bg_form">#fff</color>
+    <color name="bg_form_item">#fff</color>
+    <color name="bg_form_item_pressed">#aaa</color>
+    <color name="common_divider_color">#e4e4e4</color>
+    <color name="common_topbar_bg_alpha_black">#cc2a2b2e</color>
+    <color name="common_listview_loadmore_bg">#fff</color>
+    <color name="list_item_title">#141414</color>
+    <color name="list_item_content">#3e3e3e</color>
+    <!-- end 公共 -->
+
+    <!-- login -->
+    <color name="bg_login">#998abd</color>
+    <!-- end login -->
+
+    <!-- 主页面 -->
+    <color name="main_tab_bg">#f8f8f8</color>
+    <color name="main_tab_item_text_normal">#bbacc4</color>
+    <color name="main_tab_item_text_selected">#7a6c9d</color>
+    <!-- end 主页面 -->
+
+    <!-- im -->
+    <color name="graycolor_1">#e8ebec</color>
+    <color name="bg_chat">#f9f9f9</color>
+    <color name="chat_content_txt">#343434</color>
+    <!-- end im -->
+
+    <!-- me -->
+    <color name="me_tab_bg">#efecfb</color>
+    <!-- end me -->
+
+    <!-- 录音 -->
+    <color name="voice_volume_color">#e94028</color>
+    <!-- end 录音 -->
+
+    <!-- button -->
+    <color name="btn_txt_color">#fff</color>
+    <color name="btn_background_color_pressed">#403373</color>
+    <!-- end button -->
+
+
+</resources>

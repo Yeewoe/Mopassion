@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.yeewoe.mopassion.app.common.view.widget.MopaTitleLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                                             android:id="@+id/title_container"
+                                                             style="@style/TitleContainer">
+
+    <TextView
+        android:id="@+id/title_left_txt"
+        style="@style/TitleTextView.Main.Left"
+        android:text="title_left_txt"/>
+
+    <ImageView
+        android:id="@+id/title_center_img"
+        style="@style/TitleImageView.Center"/>
+
+    <View style="@style/ItemSpan"
+        android:layout_alignParentBottom="true" />
+
+</org.yeewoe.mopassion.app.common.view.widget.MopaTitleLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="txt_size_8">8dp</dimen>
+    <dimen name="txt_size_9">9dp</dimen>
+    <dimen name="txt_size_10">10dp</dimen>
+    <dimen name="txt_size_11">11dp</dimen>
+    <dimen name="txt_size_12">12dp</dimen>
+    <dimen name="txt_size_13">13dp</dimen>
+    <dimen name="txt_size_14">14dp</dimen>
+    <dimen name="txt_size_15">15dp</dimen>
+    <dimen name="txt_size_16">16dp</dimen>
+    <dimen name="txt_size_17">17dp</dimen>
+    <dimen name="txt_size_18">18dp</dimen>
+    <dimen name="txt_size_large">16dp</dimen>
+    <dimen name="txt_size_large_normal">14dp</dimen>
+    <dimen name="txt_size_normal">12dp</dimen>
+    <dimen name="txt_size_normal_small">10dp</dimen>
+    <dimen name="txt_size_small">8dp</dimen>
+</resources>

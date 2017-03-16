@@ -1,0 +1,102 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/white"
+              android:gravity="center_horizontal"
+              android:orientation="vertical"
+              tools:context=".app.auth.view.RegisterPasswordFragment">
+
+    <include layout="@layout/layout_title_left_img_center_img"/>
+
+    <LinearLayout
+        style="@style/RootContainer.LinearVertical"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center_horizontal"
+        android:paddingLeft="@dimen/common_padding_left_right"
+        android:paddingRight="@dimen/common_padding_left_right"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="104dp"
+            android:text="@string/register_input_gender_label"
+            android:textColor="@color/purple_dark"
+            android:textSize="@dimen/txt_size_15"/>
+
+        <RadioGroup
+            android:checkedButton="@+id/radio_btn_male"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:scaleType="center"
+                    android:src="@drawable/ic_choose_gender_male"/>
+
+                <RadioButton
+                    android:id="@+id/radio_btn_male"
+                    android:layout_width="101dp"
+                    android:layout_height="26dp"
+                    android:layout_marginTop="14dp"
+                    android:background="@drawable/selector_theme_radio_btn"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:text="@string/man"
+                    android:textColor="@color/selector_theme_radio_btn_text"
+                    android:textSize="@dimen/txt_size_11"
+                    android:textStyle="bold"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="60dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:scaleType="center"
+                    android:src="@drawable/ic_choose_gender_female"/>
+
+                <RadioButton
+                    android:id="@+id/radio_btn_female"
+                    android:layout_width="101dp"
+                    android:layout_height="26dp"
+                    android:layout_marginTop="14dp"
+                    android:background="@drawable/selector_theme_radio_btn"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:text="@string/lady"
+                    android:textColor="@color/selector_theme_radio_btn_text"
+                    android:textSize="@dimen/txt_size_11"
+                    android:textStyle="bold"/>
+            </LinearLayout>
+        </RadioGroup>
+    </LinearLayout>
+
+    <View style="@style/ItemSpan"/>
+
+    <Button
+        android:id="@+id/action_next"
+        style="@style/Button.Purple"
+        android:layout_gravity="center"
+        android:layout_marginBottom="7dp"
+        android:layout_marginTop="7dp"
+        android:text="@string/next"/>
+</LinearLayout>

@@ -1,0 +1,182 @@
+<resources>
+    <string name="app_name">PoketGo</string>
+    <string name="title_activity_main_tab">MainTabActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="test">test</string>
+
+    <!-- system -->
+    <string name="cancel_alert">Back Again To Background</string>
+    <!-- end system -->
+
+    <!-- 公共提示 -->
+    <string name="please_wait">Please Wait…</string>
+    <string name="can_not_be_empty">can not be empty</string>
+    <string name="please_input_a_email_address">please input a email address</string>
+    <string name="please_input_a_password">only letter, number or underline</string>
+    <string name="min_length_format">at least %1$d characters</string>
+    <string name="send">Send</string>
+    <string name="picture">Picture</string>
+    <string name="camera">Camera</string>
+    <string name="none">None</string>
+    <string name="ok">OK</string>
+    <string name="sure">Sure</string>
+    <string name="cancel">Cancel</string>
+    <string name="setting">Setting</string>
+    <string name="help">Help</string>
+    <string name="operation">Operation</string>
+    <string name="unfinish_func">Un support function</string>
+    <string name="loading">Loading…</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+    <string name="no_signature">No Signature…</string>
+    <string name="password">Password</string>
+    <string name="edit">Edit</string>
+    <string name="confirm">Confirm</string>
+    <string name="address">Address</string>
+    <string name="birthday">Birthday</string>
+    <string name="man">Man</string>
+    <string name="lady">Lady</string>
+    <string name="yesterday">Yesterday</string>
+    <!-- end 公共提示 -->
+
+    <!-- 公共格式 -->
+    <string name="format_distance">%1$.2fkm</string>
+    <!-- end 公共格式 -->
+
+    <!-- 主页面TAB-->
+    <string name="main_tab_item_nearby">nearby</string>
+    <string name="main_tab_item_discover">find</string>
+    <string name="main_tab_item_im">message</string>
+    <string name="main_tab_item_me">me</string>
+    <!-- end 主页面TAB-->
+
+    <!-- 附近TAB页面 -->
+    <string name="nearby_tab_title">Nearby</string>
+    <string name="men_seek_men">MEN SEEK MEN</string>
+    <string name="men_seek_women">MEN SEEK WOMEN</string>
+    <string name="women_seek_men">WOMEN SEEK MEN</string>
+    <string name="women_seek_women">WOMEN SEEK WOMEN</string>
+    <!-- end 附近TAB页面 -->
+
+    <!-- 发现TAB页面 -->
+    <string name="discovery_fragment_title">Find</string>
+    <!-- end 发现TAB页面 -->
+
+    <!-- 消息TAB页面 -->
+    <string name="im_fragment_title">Message</string>
+    <string name="im_fragment_title_format">Message(%1$d)</string>
+    <!-- end 消息TAB页面 -->
+
+    <!-- contact -->
+    <!-- 联系人TAB页面 -->
+    <string name="contact_fragment_title">好友</string>
+    <string name="contact_tab_item_friend">好友</string>
+    <string name="contact_tab_item_test">测试用户</string>
+    <string name="contact_tab_item_follower_and_fans">关注和粉丝</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- 联系人TAB页面 -->
+
+    <string name="contact_edit_title">编辑资料</string>
+    <string name="contact_edit_modify_nick_title">修改名字</string>
+
+    <!-- end contact -->
+
+    <!-- Strings related to login -->
+    <string name="login_title">登录</string>
+    <string name="prompt_account">账号</string>
+    <string name="prompt_password">密码（暂时可用不填）</string>
+    <string name="action_sign_in">登录</string>
+    <string name="action_register">注册</string>
+    <string name="action_sign_in_short">登录</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">请输入账号</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <!-- end 联系人TAB页面 -->
+
+    <!-- IM -->
+    <string name="check_detail_discuss">查看详情 ></string>
+    <string name="release_cancel">release to cancel</string>
+    <string name="already_read">已读</string>
+    <string name="scan_all">查看全文</string>
+
+    <string name="choose_mail_type">选择要使用的邮件类应用</string>
+    <string name="phone_call">可能是一个电话，你可以</string>
+    <string name="ear_model_alert">当前为听筒模式</string>
+    <string name="no_ear_model_alert">当前为扬声器模式</string>
+    <string name="emoji_express">[表情]</string>
+    <string name="emoji_dynamic_express">[动态表情]</string>
+    <!-- end IM -->
+
+    <!-- trend -->
+    <string name="trend_hinttext">此时此地，想和大家分享什么？</string>
+    <string name="trend_publish">发布动态</string>
+    <string name="nearby_user_item_info">%1$s | %2$.2fkm</string>
+    <string name="user_trend_list_title">%1$s的动态</string>
+    <string name="trend_publish_title">Post edit</string>
+    <string name="trend_publish_post_title">Post title</string>
+    <string name="trend_publish_post_description">Description</string>
+    <string name="trend_publish_photo_label">Update photo is good for post</string>
+    <string name="trend_publish_time_format">Published on %1$s</string>
+    <string name="trend_publish_title_tip">Title cannot be empty</string>
+    <string name="trend_publish_content_tip">Content cannot be empty</string>
+    <string name="trend_publish_location_tip">Location is null, please try later</string>
+    <string name="trend_detail_contact">+CONTACT</string>
+    <string name="trend_detail_follow">+follow</string>
+    <string name="trend_detail_site_format">%1$s %2$s %3$.2fkm</string>
+    <!-- end trend -->
+
+    <!-- discovery -->
+    <string name="discovery_cell_item_distance">%1$.2fkm</string>
+    <!-- end discovery -->
+
+    <!-- follower and fans -->
+    <string name="follower_list_title">关注</string>
+    <string name="fans_list_title">粉丝</string>
+    <!-- end follower and fans -->
+
+    <!-- me -->
+    <string name="me_main_account">Mopa号：%1$s</string>
+    <string name="me_tab_follow">follow</string>
+    <string name="me_tab_fans">fans</string>
+    <!-- end me -->
+
+    <!-- setting -->
+    <string name="setting_logout">Logout</string>
+    <!-- end setting -->
+
+    <!-- help -->
+    <string name="help_main_version_check">检查新版本</string>
+    <string name="help_main_version_current">当前版本：%1$s</string>
+    <string name="help_main_version_intro">版本介绍</string>
+    <string name="help_main_protocol">用户协议</string>
+    <string name="help_main_copyright">Copyright 2016 Mopa All Rights Reserved</string>
+
+
+
+    <!-- end help -->
+
+    <!-- login -->
+    <string name="login_cancel_facebook_auth">取消了Facebook认证</string>
+    <string name="login_error_facebook_auth">Facebook认证失败，%1$s</string>
+    <string name="login_cancel_twitter_auth">取消了Twitter认证</string>
+    <string name="login_error_twitter_auth">Twitter认证失败，%1$s</string>
+
+
+    <!-- end login -->
+    <!-- register -->
+    <string name="register_input_email_label">Please enter your email address to be your accounts</string>
+    <string name="register_input_password_title">You need a password</string>
+    <string name="register_input_password_label">Please make sure that the password has at least 6 characters</string>
+    <string name="register_input_gender_label">Please choose your gender</string>
+    <!-- end register -->
+
+    <!-- user edit -->
+    <string name="user_edit_nick_hint">Nick</string>
+    <string name="user_edit_signature_hint">Signature</string>
+    <string name="user_edit_nick_name_empty">Nick can not be empty</string>
+
+    <!-- end user edit -->
+</resources>

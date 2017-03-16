@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="uriPath" type="id">uriPath</item>
+    <item name="filekeyPath" type="id">filekeyPath</item>
+    <item name="mopa_listview" type="id">mopa_listview</item>
+    <item name="mopa_gridview" type="id">mopa_gridview</item>
+    <item name="mopa_ptr" type="id">mopa_ptr</item>
+    <item name="mopa_loadmore" type="id">mopa_loadmore</item>
+</resources>

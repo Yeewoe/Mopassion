@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              style="@style/RootContainer.White">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/common_padding_left_right_13dp"
+        android:paddingLeft="@dimen/common_padding_left_right_17dp"
+        android:paddingRight="@dimen/common_padding_left_right_17dp"
+        android:paddingTop="@dimen/common_padding_left_right_13dp">
+
+        <org.yeewoe.mopassion.photo.fresco_lib.HeadThumbSimpleDraweeView
+            android:id="@+id/img_head"
+            android:layout_width="54dp"
+            android:layout_height="54dp"
+            android:layout_marginTop="3dp"/>
+
+        <ImageView
+            android:id="@+id/imgvi_back"
+            android:layout_width="@dimen/title_icon_length"
+            android:layout_height="@dimen/title_icon_length"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:scaleType="center"
+            android:src="@drawable/new_back_btn"/>
+
+    </RelativeLayout>
+
+    <View style="@style/ItemSpan"/>
+
+    <org.yeewoe.mopassion.app.common.view.widget.MopaTextView
+        android:id="@+id/txt_nick"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="7dp"
+        android:paddingLeft="@dimen/common_padding_left_right_17dp"
+        android:paddingRight="@dimen/common_padding_left_right_17dp"
+        android:singleLine="false"
+        android:text="name"
+        android:textColor="@color/txt_3e"
+        android:textSize="@dimen/txt_size_18"
+        android:textStyle="bold"/>
+
+    <org.yeewoe.mopassion.app.common.view.widget.MopaTextView
+        android:id="@+id/txt_signature"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:paddingLeft="@dimen/common_padding_left_right_17dp"
+        android:paddingRight="@dimen/common_padding_left_right_17dp"
+        android:singleLine="false"
+        android:text="signature signature signature signature signature signature signature signature signature signature signature signature"
+        android:textColor="@color/txt_3e"
+        android:textSize="@dimen/txt_size_14"/>
+
+    <RadioGroup
+        android:id="@+id/radio_group_tab"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/me_tab_padding_left_right"
+        android:paddingRight="@dimen/me_tab_padding_left_right"
+        >
+
+        <RadioButton
+            android:id="@+id/radio_btn_post"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/selector_me_space_tab_left"
+            android:button="@null"
+            android:gravity="center"
+            android:text="POST"
+            android:textColor="@color/purple"
+            android:textSize="@dimen/txt_size_14"
+            android:textStyle="bold"/>
+
+        <RadioButton
+            android:id="@+id/radio_btn_space"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/selector_me_space_tab_right"
+            android:button="@null"
+            android:gravity="center"
+            android:text="SPACE"
+            android:textColor="@color/purple"
+            android:textSize="@dimen/txt_size_14"
+            android:textStyle="bold"/>
+
+    </RadioGroup>
+
+    <View
+        style="@style/Section"
+        android:layout_marginTop="18dp"/>
+
+    <FrameLayout
+        android:id="@+id/fl_tab_content"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+
+        android:layout_weight="1"
+        android:background="@color/white">
+
+    </FrameLayout>
+
+    <View style="@style/ItemSpan"/>
+
+    <LinearLayout
+        android:id="@+id/ll_operation_bar"
+        android:layout_width="match_parent"
+        android:layout_height="47dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:id="@+id/ll_contact"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:src="@drawable/ic_user_contact"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dp"
+                android:text="contact"
+                android:textColor="@color/purple"
+                android:textSize="@dimen/txt_size_12"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_mark"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center">
+
+            <ImageView
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:src="@drawable/ic_user_mark"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dp"
+                android:text="mark"
+                android:textColor="@color/purple"
+                android:textSize="@dimen/txt_size_12"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_blacklist"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center">
+
+            <ImageView
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:src="@drawable/ic_user_blacklist"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dp"
+                android:text="blacklist"
+                android:textColor="@color/purple"
+                android:textSize="@dimen/txt_size_12"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

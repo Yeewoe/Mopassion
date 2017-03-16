@@ -1,0 +1,11 @@
+<org.yeewoe.mopassion.app.common.view.widget.MopaRootLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                                                  xmlns:tools="http://schemas.android.com/tools"
+                                                                  style="@style/RootContainer.LinearVertical"
+                                                                  android:background="#f0f0f2"
+                                                                  tools:context=".app.maintab.view.FindFragment">
+
+    <include layout="@layout/layout_title_left_img_center_txt"/>
+
+    <include layout="@layout/common_image_wall" />
+
+</org.yeewoe.mopassion.app.common.view.widget.MopaRootLinearLayout>

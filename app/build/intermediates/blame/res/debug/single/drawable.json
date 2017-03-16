@@ -1,0 +1,482 @@
+[
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cube_mints_update_progressbar.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\in.srain.cube\\cube-sdk\\1.0.44\\res\\drawable\\cube_mints_update_progressbar.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn_disabled.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.7.0\\res\\drawable\\tw__login_btn_disabled.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voice_playing_self_anim.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\voice_playing_self_anim.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_btn_purple_normal.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\shape_btn_purple_normal.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tab_im.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\selector_tab_im.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__video_pause_btn.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable\\tw__video_pause_btn.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.13.1\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_me_space_tab_right_normal.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\shape_me_space_tab_right_normal.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_btn_purple_pressed.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\shape_btn_purple_pressed.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.13.1\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_me_space_tab_left.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\selector_me_space_tab_left.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn_pressed.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.7.0\\res\\drawable\\tw__login_btn_pressed.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.7.0\\res\\drawable\\tw__login_btn.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.13.1\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__call_to_action.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable\\tw__call_to_action.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\express_btn_send_pressed.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\express_btn_send_pressed.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__video_seekbar.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable\\tw__video_seekbar.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\txt_background_ffb56a.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\txt_background_ffb56a.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__bg_media_badge.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable\\tw__bg_media_badge.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voice_playing_other_anim.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\voice_playing_other_anim.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn_pressed_light.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.7.0\\res\\drawable\\tw__login_btn_pressed_light.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_send_msg_btn.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\selector_send_msg_btn.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__app_info_layout_border.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.5\\res\\drawable\\tw__app_info_layout_border.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_icon.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.13.1\\res\\drawable\\com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_dark.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.11.0\\res\\drawable\\progress_dark.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\express_bg_normal.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\express_bg_normal.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_round_purple_t.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\shape_round_purple_t.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.13.1\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.13.1\\res\\drawable\\com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__like_action.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable\\tw__like_action.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_form_item.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\selector_form_item.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tab_nearby.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\selector_tab_nearby.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.13.1\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.13.1\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_oval_drawable.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\shape_oval_drawable.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dgts__digits_btn.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.11.0\\res\\drawable\\dgts__digits_btn.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dgts__digits_btn_default.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.11.0\\res\\drawable\\dgts__digits_btn_default.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_me_space_tab_center.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\selector_me_space_tab_center.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\Mopassion2.libraries\\viewpagerindicator\\unspecified\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__video_replay_btn.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable\\tw__video_replay_btn.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_border_purple.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\selector_border_purple.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_border_purple_normal.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\shape_border_purple_normal.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_me_space_tab_center_checked.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\shape_me_space_tab_center_checked.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__seekbar_thumb.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable\\tw__seekbar_thumb.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_me_space_tab_left_normal.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\shape_me_space_tab_left_normal.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_me_space_tab_left_checked.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\shape_me_space_tab_left_checked.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_theme_radio_btn_checked.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\shape_theme_radio_btn_checked.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__btn_composer_tweet.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.5\\res\\drawable\\tw__btn_composer_tweet.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_me_space_tab_center_normal.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\shape_me_space_tab_center_normal.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__share_action.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable\\tw__share_action.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_rounded.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\shape_rounded.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.13.1\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listview_selector_shape_press.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\listview_selector_shape_press.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__video_play_btn.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable\\tw__video_play_btn.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\express_check_icon_selector.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\express_check_icon_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__transparent.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.7.0\\res\\drawable\\tw__transparent.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_style_drawable.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\check_style_drawable.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__gif_badge.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable\\tw__gif_badge.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_list_item.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\selector_list_item.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_theme_radio_btn_normal.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\shape_theme_radio_btn_normal.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recently_check_icon_selector.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\recently_check_icon_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_me_space_tab_right.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\selector_me_space_tab_right.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_login_btn.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\shape_login_btn.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.13.1\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_chat_bar_circle.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\shape_chat_bar_circle.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_me_space_tab_right_checked.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\shape_me_space_tab_right_checked.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dgts__digits_btn_pressed.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.11.0\\res\\drawable\\dgts__digits_btn_pressed.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tab_find.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\selector_tab_find.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send_msg_pressed.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\send_msg_pressed.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__player_overlay.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable\\tw__player_overlay.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn_text_color_light.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.7.0\\res\\drawable\\tw__login_btn_text_color_light.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__vine_badge.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.0\\res\\drawable\\tw__vine_badge.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listview_selector_shape_normal.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\listview_selector_shape_normal.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_chat_express.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\selector_chat_express.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn_default.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.7.0\\res\\drawable\\tw__login_btn_default.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__install_button_border.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.5\\res\\drawable\\tw__install_button_border.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.13.1\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tips_bg.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\tips_bg.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\im_system_msg_bg.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\im_system_msg_bg.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_purple.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\selector_btn_purple.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn_default_light.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.7.0\\res\\drawable\\tw__login_btn_default_light.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tab_me.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\selector_tab_me.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\express_check_bg_selector.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\express_check_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.13.1\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn_light.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.7.0\\res\\drawable\\tw__login_btn_light.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\express_btn_send_selector.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\express_btn_send_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_oval_border_white_drawable.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\shape_oval_border_white_drawable.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\express_tab_bg_checked.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\express_tab_bg_checked.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.13.1\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\express_btn_send_normal.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\express_btn_send_normal.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\express_tab_bg_normal.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\express_tab_bg_normal.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send_msg_normal.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\send_msg_normal.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_login_edit.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\shape_login_edit.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_theme_radio_btn.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\selector_theme_radio_btn.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_light.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.11.0\\res\\drawable\\progress_light.xml"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_border_purple_pressed.xml",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\src\\main\\res\\drawable\\shape_border_purple_pressed.xml"
+    }
+]

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/MainTabContiner">
+
+    <LinearLayout style="@style/MainTabContentContainer">
+
+        <ImageView
+            android:id="@+id/imageview"
+            android:layout_width="39dp"
+            android:layout_height="37dp"
+            android:focusable="false" />
+
+        <TextView
+            android:id="@+id/txt_tab_name"
+            style="@style/MainTabContentTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/main_tab_item_nearby" />
+
+    </LinearLayout>
+
+    <!--<LinearLayout-->
+        <!--android:id="@+id/ll_txt_mark"-->
+        <!--style="@style/main_tab_mark_container.other">-->
+
+        <!--<TextView-->
+            <!--android:id="@+id/txt_mark"-->
+            <!--style="@style/main_tab_mark_content_textview"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:singleLine="true"-->
+            <!--android:visibility="visible" />-->
+    <!--</LinearLayout>-->
+
+
+</FrameLayout>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="im_copy_operation_arrays">
+        <item>COPY</item>
+    </string-array>
+
+    <string-array name="im_email_operation_arrays">
+        <item>EMAIL</item>
+        <item>COPY</item>
+    </string-array>
+
+    <string-array name="im_phone_operation_arrays">
+        <item>CALL</item>
+        <item>COPY</item>
+        <item>ADD TO MOBILE CONTACT</item>
+    </string-array>
+
+    <string-array name="im_phone_book_operation_arrays">
+        <item>CREATE NEW CONTACT</item>
+        <item>UPDATE CONTACT</item>
+    </string-array>
+
+    <string-array name="setting_logout_item_arrays">
+        <item>CLOSE</item>
+        <item>LOG OUT</item>
+    </string-array>
+
+    <string-array name="common_picture_item_arrays">
+        <item>CAMERA</item>
+        <item>ALBUM</item>
+    </string-array>
+
+    <string-array name="modify_head_item_arrays">
+        <item>REVIEW</item>
+        <item>DELETE</item>
+    </string-array>
+
+    <string-array name="contact_item_arrays">
+        <item>EMAIL</item>
+        <item>IM</item>
+    </string-array>
+</resources>

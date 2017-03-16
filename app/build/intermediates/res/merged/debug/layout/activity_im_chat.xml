@@ -1,0 +1,171 @@
+<org.yeewoe.mopassion.app.common.view.widget.KeyBroadListenerFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                                                         xmlns:tools="http://schemas.android.com/tools"
+                                                                         android:id="@+id/frame_keyboard"
+                                                                         android:layout_width="match_parent"
+                                                                         android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/linear_keyboard"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/bg_chat"
+        android:orientation="vertical"
+        tools:context=".ChatTestActivity">
+
+        <View
+            android:id="@+id/top_status_bar"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:background="#fff"/>
+
+        <include layout="@layout/layout_title_left_img_center_txt"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:id="@+id/linear_im_message_controll"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:orientation="vertical">
+
+                <!-- 发送信息类型容器 录音界面，聊天文本编辑界面 -crj -->
+
+                <FrameLayout
+                    android:id="@+id/send_msg_type_container"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <include
+                        android:id="@+id/chat_bar"
+                        layout="@layout/view_im_chat_bar"
+                        android:visibility="visible"/>
+
+                    <include
+                        android:id="@+id/chat_edit_bar"
+                        layout="@layout/view_im_edit_bar"
+                        android:visibility="gone"/>
+
+                </FrameLayout>
+
+                <!-- 发送表情以及附件 布局容器 -crj -->
+
+                <!--<FrameLayout-->
+                <!--android:id="@+id/send_expression_attachment_container"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:background="#f4f4f4"/>-->
+                <org.yeewoe.mopassion.app.common.view.widget.PanelLayout
+                    android:id="@+id/send_expression_attachment_container"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#f8f8f8"
+                    ></org.yeewoe.mopassion.app.common.view.widget.PanelLayout>
+            </LinearLayout>
+
+            <FrameLayout
+                android:id="@+id/frame_layout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_above="@+id/linear_im_message_controll">
+
+                <org.yeewoe.mopassion.app.common.view.widget.MopaListView
+                    android:id="@+id/listview_main"
+                    style="@style/ListView.Container"
+                    android:background="@color/bg_im"
+                    />
+
+                <FrameLayout
+                    android:id="@+id/frame_list"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/transparent"/>
+            </FrameLayout>
+            <!-- 松开后取消发送 -->
+
+            <LinearLayout
+                android:id="@+id/linear_discuss_details"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#ef1a1c26"
+                android:orientation="vertical"
+                android:visibility="invisible"
+                >
+
+                <LinearLayout
+                    android:id="@+id/ll_discuss_details"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="11dp"
+                    android:layout_marginLeft="17dp"
+                    android:layout_marginRight="17dp"
+                    android:orientation="vertical"
+                    android:paddingTop="14dp">
+                    <!--android:background="#00fff0"-->
+
+                    <TextView
+                        android:id="@+id/tv_discuss_details_content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="6dp"
+                        android:ellipsize="end"
+                        android:lineSpacingExtra="3dp"
+                        android:singleLine="true"
+                        android:text="事假"
+                        android:textColor="#ccc"
+                        android:textSize="14dp"/>
+                    <!--android:background="#00ff00"-->
+
+                    <TextView
+                        android:id="@+id/tv_discuss_details_content_line2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:ellipsize="end"
+                        android:lineSpacingExtra="3dp"
+                        android:text="张悦:老家有点事，得回去一趟老家有点事，得回去一趟老家有点事，得回去一趟老家有点事，得回去一趟老家有点事，得回去一趟老家有点事，得回去一趟"
+                        android:textColor="#ccc"
+                        android:textSize="13dp"/>
+                    <!--android:background="#0fff00"-->
+
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="36dp"
+                    android:background="#55000000"
+                    >
+
+                    <TextView
+                        android:id="@+id/check_detail"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="17dp"
+                        android:text="@string/check_detail_discuss"
+                        android:textColor="#3c9dff"
+                        android:textSize="12dp"
+                        />
+                </RelativeLayout>
+
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/txt_cancel"
+                android:layout_width="match_parent"
+                android:layout_height="33dp"
+                android:background="#cce74c3c"
+                android:gravity="center"
+                android:text="@string/release_cancel"
+                android:textColor="@color/white"
+                android:textSize="16dp"
+                android:visibility="gone"/>
+
+        </RelativeLayout>
+    </LinearLayout>
+
+</org.yeewoe.mopassion.app.common.view.widget.KeyBroadListenerFrameLayout>

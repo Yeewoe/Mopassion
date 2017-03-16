@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/selector_list_item"
+        android:paddingBottom="7dp"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:paddingTop="10dp">
+
+        <org.yeewoe.mopassion.photo.fresco_lib.HeadThumbSimpleDraweeView
+            android:id="@+id/iv_trend_photo"
+            android:layout_width="@dimen/head_photo_length_trend"
+            android:layout_height="@dimen/head_photo_length_trend"
+            android:layout_alignParentLeft="true"
+            android:layout_marginRight="10.0dip"/>
+
+        <LinearLayout
+            android:id="@+id/layout_content"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/iv_trend_photo"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/listitem_layout_name"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:id="@+id/layout_trend_userinfo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.0"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <org.yeewoe.mopassion.app.common.view.widget.MopaTextView
+                        android:id="@+id/txt_user_name"
+                        style="@style/ListItem_Title"
+                        android:gravity="center"
+                        android:singleLine="true"
+                        android:text="name name"/>
+
+                    <org.yeewoe.mopassion.app.common.view.widget.MopaGenderView
+                        android:id="@+id/imgvi_gender"
+                        android:layout_width="19dp"
+                        android:layout_height="19dp"
+                        android:layout_marginLeft="2dp"
+                        android:src="@drawable/male"/>
+
+                </LinearLayout>
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layout_trend_content"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/layout_content"
+            android:layout_marginBottom="4.0dip"
+            android:layout_marginTop="8dp"
+            android:layout_toRightOf="@+id/iv_trend_photo"
+            android:orientation="vertical">
+
+            <org.yeewoe.mopassion.app.common.view.widget.MopaTextView
+                android:id="@+id/txt_user_content"
+                style="@style/ListItem_Content"
+                android:text="content content content"/>
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <View style="@style/ItemSpan"/>
+</LinearLayout>

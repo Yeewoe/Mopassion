@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:gravity="center_vertical"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/img_top_line"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="#cccccc" />
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#f8f8f8"
+        android:orientation="horizontal">
+
+        <FrameLayout
+            android:id="@+id/frame_send_container"
+            android:layout_width="wrap_content"
+            android:layout_height="52dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            >
+
+            <ImageView
+                android:id="@+id/imgbtn_send_voice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:paddingBottom="6dp"
+                android:paddingLeft="11dp"
+                android:paddingRight="11dp"
+                android:paddingTop="6dp"
+                android:src="@drawable/send_voice"
+                android:visibility="visible"/>
+
+            <Button
+                android:id="@+id/btn_send_content"
+                android:layout_width="47dp"
+                android:layout_height="37dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:background="@drawable/selector_send_msg_btn"
+                android:gravity="center"
+                android:text="@string/send"
+                android:textColor="#ffffff"
+                android:textSize="15dp"
+                android:visibility="gone"/>
+
+        </FrameLayout>
+
+        <ImageView
+            android:id="@+id/imgbtn_send_menu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:paddingLeft="11dp"
+            android:paddingRight="8dp"
+            android:src="@drawable/send_menu" />
+
+        <LinearLayout
+            android:id="@+id/chat_msg_container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/frame_send_container"
+            android:layout_toRightOf="@+id/imgbtn_send_menu"
+            android:background="@drawable/shape_chat_bar_circle"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:orientation="horizontal">
+
+            <org.yeewoe.mopassion.app.common.view.widget.ChatEditText
+                android:id="@+id/edttxt_content"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="13dp"
+                android:layout_weight="1"
+                android:background="@null"
+                android:gravity="center_vertical"
+                android:inputType="textMultiLine"
+                android:layout_gravity="center_vertical"
+                android:maxLength="2000"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:maxLines="5"
+                android:textSize="14dp" />
+
+            <!-- 显示表情界面按钮 -->
+
+            <ImageView
+                android:id="@+id/imgbtn_send_express"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:padding="6dp"
+                android:src="@drawable/selector_chat_express" />
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/img_bottom_line"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="#aaaaaa" />
+</LinearLayout>

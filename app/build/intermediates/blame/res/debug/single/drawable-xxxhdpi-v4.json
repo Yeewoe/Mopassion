@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\dgts__ic_success.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.11.0\\res\\drawable-xxxhdpi-v4\\dgts__ic_success.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\dgts__spinner_light.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.11.0\\res\\drawable-xxxhdpi-v4\\dgts__spinner_light.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\dgts__logo_name.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.11.0\\res\\drawable-xxxhdpi-v4\\dgts__logo_name.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\dgts__logo.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.11.0\\res\\drawable-xxxhdpi-v4\\dgts__logo.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\dgts__spinner_dark.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.11.0\\res\\drawable-xxxhdpi-v4\\dgts__spinner_dark.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\dgts__login_header.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.11.0\\res\\drawable-xxxhdpi-v4\\dgts__login_header.png"
+    },
+    {
+        "merged": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\dgts__addressbook_header.png",
+        "source": "E:\\project\\svn\\Mopa\\Android\\Mopassion2\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.11.0\\res\\drawable-xxxhdpi-v4\\dgts__addressbook_header.png"
+    }
+]

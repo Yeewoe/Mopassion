@@ -1,0 +1,12 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".app.contact.view.ContactTestFragment">
+
+
+    <org.yeewoe.mopassion.app.common.view.widget.MopaListView
+        android:id="@+id/listview_main"
+        style="@style/ListView.Line" />
+
+</FrameLayout>

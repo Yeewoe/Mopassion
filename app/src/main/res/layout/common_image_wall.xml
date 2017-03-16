@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.yeewoe.mopassion.app.common.view.widget.MopaPtrFrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@id/mopa_ptr"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <org.yeewoe.mopassion.app.common.view.widget.MopaLoadMoreGridViewContainer
+        android:id="@id/mopa_loadmore"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <org.yeewoe.mopassion.app.common.view.widget.MopaGridView
+            android:id="@id/mopa_gridview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:horizontalSpacing="2dp"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:numColumns="3"
+            android:stretchMode="columnWidth"
+            android:verticalSpacing="2dp"/>
+    </org.yeewoe.mopassion.app.common.view.widget.MopaLoadMoreGridViewContainer>
+</org.yeewoe.mopassion.app.common.view.widget.MopaPtrFrameLayout>

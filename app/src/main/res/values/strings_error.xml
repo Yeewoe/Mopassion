@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_memory_low">内存不足，请清理内存后重试</string>
+    <string name="error_default">请求错误，错误码为：%1$d</string>
+    <string name="error_sdcard_exist">没有插入SD卡</string>
+    <string name="error_camera">打开系统拍照失败</string>
+    <string name="error_galley">打开系统相册失败</string>
+    <string name="error_content_not_null">内容不能为空!</string>
+    <string name="error_voice_record">录音失效，请重试</string>
+    <string name="error_voice_record_short">录音时间过短</string>
+    <string name="error_voice_invalid">无效的录音</string>
+    <string name="error_copy_or_paste_fail">复制或者粘贴失败</string>
+    <string name="error_data_error">数据错误</string>
+
+</resources>

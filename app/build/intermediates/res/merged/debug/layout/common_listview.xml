@@ -1,0 +1,23 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent">
+
+
+    <org.yeewoe.mopassion.app.common.view.widget.MopaPtrFrameLayout
+        android:id="@id/mopa_ptr"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <org.yeewoe.mopassion.app.common.view.widget.MopaLoadMoreListViewContainer
+            android:id="@id/mopa_loadmore"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <org.yeewoe.mopassion.app.common.view.widget.MopaListView
+                android:id="@id/mopa_listview"
+                style="@style/ListView.Line"/>
+        </org.yeewoe.mopassion.app.common.view.widget.MopaLoadMoreListViewContainer>
+    </org.yeewoe.mopassion.app.common.view.widget.MopaPtrFrameLayout>
+
+
+</FrameLayout>

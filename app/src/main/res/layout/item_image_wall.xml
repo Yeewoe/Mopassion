@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.yeewoe.mopassion.app.common.view.widget.SquareLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent">
+
+    <org.yeewoe.mopassion.photo.fresco_lib.WallPhotoSimpleDraweeView
+        android:id="@+id/imgvi_user_photo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#edd8ea"/>
+
+</org.yeewoe.mopassion.app.common.view.widget.SquareLayout>

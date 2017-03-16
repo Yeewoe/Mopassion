@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.yeewoe.mopassion.app.common.view.widget.KeyBroadListenerFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                                                         android:id="@+id/trend_root_layout"
+                                                                         style="@style/RootContainer">
+
+    <LinearLayout
+        style="@style/RootContainer.Common"
+        android:orientation="vertical">
+
+        <include layout="@layout/layout_title_left_img_right_img"/>
+
+        <LinearLayout
+            style="@style/RootContainer.White">
+
+            <LinearLayout
+                style="@style/FormItemContainer">
+
+                <TextView
+                    style="@style/FormItemTextLeft"
+                    android:text="@string/trend_publish_post_title"/>
+
+                <org.yeewoe.mopassion.app.common.view.widget.ChatEditText
+                    android:id="@+id/edit_trend_title"
+                    style="@style/FormItemEditRight"/>
+            </LinearLayout>
+
+            <View
+                style="@style/ItemSpan"/>
+
+            <LinearLayout
+                style="@style/FormItemContainer.Top">
+
+                <TextView
+                    style="@style/FormItemTextLeft"
+                    android:text="@string/trend_publish_post_description"/>
+
+                <org.yeewoe.mopassion.app.common.view.widget.ChatEditText
+                    android:id="@+id/edit_trend_content"
+                    style="@style/FormItemEditRight.MultiLine"
+                    android:maxLines="10"
+                    android:minLines="3"/>
+            </LinearLayout>
+
+            <View style="@style/ItemSpan"/>
+
+            <LinearLayout
+                style="@style/FormItemContainer"
+                android:paddingRight="10dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/trend_publish_photo_label"
+                    android:textColor="@color/lavender"
+                    android:textSize="@dimen/txt_size_14"/>
+
+                <ImageView
+                    android:id="@+id/imgvi_add_photo"
+                    android:layout_width="47dp"
+                    android:layout_height="47dp"
+                    android:padding="5dp"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/ic_trend_add_photo"/>
+            </LinearLayout>
+
+            <org.yeewoe.mopassion.app.common.view.widget.ThumbPhotoGridLayout
+                android:id="@+id/thumbGL_photo"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_marginBottom="@dimen/common_padding_left_right_11dp"
+                android:layout_marginLeft="@dimen/form_item_padding"
+                android:layout_marginRight="@dimen/form_item_padding"
+                android:layout_weight="1">
+
+            </org.yeewoe.mopassion.app.common.view.widget.ThumbPhotoGridLayout>
+
+            <View style="@style/ItemSpan"/>
+
+            <Button
+                android:id="@+id/btn_next"
+                style="@style/Button.Purple"
+                android:layout_gravity="center"
+                android:layout_marginBottom="7dp"
+                android:layout_marginTop="7dp"
+                android:text="@string/next"/>
+        </LinearLayout>
+
+        <!--<RelativeLayout style="@style/MatchParent">-->
+
+        <!--<ImageView-->
+        <!--android:id="@+id/layout_shadow"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:background="@drawable/bg_topbar_shadow"-->
+        <!--android:focusable="true"/>-->
+
+        <!--<LinearLayout-->
+        <!--android:id="@+id/layout_contents"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:background="@drawable/selector_list_item"-->
+        <!--android:orientation="vertical"-->
+        <!--android:paddingBottom="8.0dip">-->
+
+        <!--<LinearLayout-->
+        <!--android:id="@+id/layout_content"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:orientation="vertical">-->
+
+        <!--<RelativeLayout-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="wrap_content">-->
+
+        <!--<View-->
+        <!--android:id="@+id/layout_line"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="1.0px"-->
+        <!--android:background="#ffababab"/>-->
+
+        <!--<org.yeewoe.mopassion.app.common.view.widget.ChatEditText-->
+        <!--android:id="@+id/edit_trend_content"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_marginBottom="30dp"-->
+        <!--android:layout_marginLeft="3.0dip"-->
+        <!--android:layout_marginRight="6.0dip"-->
+        <!--android:background="@null"-->
+        <!--android:focusableInTouchMode="true"-->
+        <!--android:gravity="top"-->
+        <!--android:hint="@string/trend_hinttext"-->
+        <!--android:maxLength="1000"-->
+        <!--android:maxLines="4"-->
+        <!--android:minLines="3"-->
+        <!--android:padding="10.0dip"-->
+        <!--android:textColorHint="@color/txt_b2"-->
+        <!--android:textSize="@dimen/txt_size_16"/>-->
+        <!--</RelativeLayout>-->
+        <!--</LinearLayout>-->
+
+        <!--<org.yeewoe.mopassion.app.common.view.widget.ThumbPhotoGridLayout-->
+        <!--android:id="@+id/thumbGL_photo"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_marginBottom="@dimen/common_padding_left_right_11dp"-->
+        <!--android:layout_marginLeft="3.0dip"-->
+        <!--android:layout_marginRight="6.0dip">-->
+
+        <!--</org.yeewoe.mopassion.app.common.view.widget.ThumbPhotoGridLayout>-->
+
+        <!--<include layout="@layout/include_publish_user_trend_container"/>-->
+
+        <!--<org.yeewoe.mopassion.app.common.view.widget.MopaTextView-->
+        <!--android:id="@+id/tv_trend_sdk_source"-->
+        <!--style="@style/Trend_List_Text_Item"-->
+        <!--android:layout_marginBottom="8.0dip"-->
+        <!--android:layout_marginLeft="14.0dip"-->
+        <!--android:layout_marginTop="8.0dip"-->
+        <!--android:visibility="gone"/>-->
+        <!--</LinearLayout>-->
+
+        <!--<LinearLayout-->
+        <!--android:id="@+id/layout_list_items"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_below="@+id/layout_contents"-->
+        <!--android:orientation="vertical">-->
+
+        <!--<View style="@style/Section"/>-->
+
+        <!--<View style="@style/Icon.HLine"/>-->
+
+        <!--<include layout="@layout/view_trend_publish_site_layout"/>-->
+
+        <!--<View style="@style/Icon.HLine"/>-->
+        <!--</LinearLayout>-->
+
+        <!--<TextView-->
+        <!--android:id="@+id/tv_add_emote_tip"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_below="@+id/layout_list_items"-->
+        <!--android:layout_marginBottom="30.0dip"-->
+        <!--android:gravity="bottom|center"-->
+        <!--android:textColor="@color/txt_aaa"-->
+        <!--android:textSize="12.0sp"/>-->
+
+        <!--<LinearLayout-->
+        <!--android:id="@+id/layout_hidden_sharevideo_tip"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:background="@color/blue"-->
+        <!--android:visibility="gone">-->
+
+        <!--<org.yeewoe.mopassion.app.common.view.widget.MopaTextView-->
+        <!--android:id="@+id/video_toptip_text"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:gravity="left"-->
+        <!--android:paddingBottom="15.0dip"-->
+        <!--android:paddingLeft="20.0dip"-->
+        <!--android:paddingRight="20.0dip"-->
+        <!--android:paddingTop="15.0dip"-->
+        <!--android:textColor="@color/white"-->
+        <!--android:textSize="14.0sp"/>-->
+        <!--</LinearLayout>-->
+        <!--</RelativeLayout>-->
+    </LinearLayout>
+</org.yeewoe.mopassion.app.common.view.widget.KeyBroadListenerFrameLayout>

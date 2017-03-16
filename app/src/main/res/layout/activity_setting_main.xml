@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/RootContainer.LinearVertical">
+
+    <include layout="@layout/layout_title_left_img_center_txt"/>
+
+    <ScrollView
+        style="@style/RootContainer.Form">
+        <LinearLayout
+            style="@style/RootContainer.Form">
+            <View
+                style="@style/Icon.HLine" />
+
+            <RelativeLayout
+                android:id="@+id/rl_logout"
+                style="@style/FormItemContainer">
+
+                <TextView
+                    android:id="@+id/label_signature"
+                    style="@style/FormItemTextLeft"
+                    android:text="@string/setting_logout"/>
+
+            </RelativeLayout>
+
+            <View
+                style="@style/Icon.HLine" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
